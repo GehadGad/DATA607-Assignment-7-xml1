@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booklist>
+  <book 1>
+    <Title>Awaken the Giant Within</Title>
+    <Author>TonY Robbins</Author>
+    <ISBN>0671791540</ISBN>
+	<Publisher> Simon & Schuster (November 1, 1992) </Publisher>
+    <Pages> 544 pages </Pages>
+  </book 1>
+  <book 2>
+    <Title>The Glass Castle</Title>
+    <Author>Jeannette Walls</Author>
+    <ISBN>9780743247542</ISBN>
+	<Publisher>Scribner; Reprint edition (January 17, 2006) </Publisher>
+    <Pages> 288 pages </Pages>
+  </book 2>
+  <book 3>
+   <Title>How to Talk So Kids Will Listen & Listen So Kids Will Talk</Title>
+   <Author>Adele Faber, Elaine Mazlin</Author>
+   <ISBN>B005GG0MXI</ISBN>
+   <Publisher>Scribner; Updated edition (February 7, 2012)</Publisher>
+   <Pages> 370 pages </Pages>
+  </book 3>
+</booklist>
